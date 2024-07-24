@@ -7,7 +7,7 @@ from configs import SYSTEM_PROMPT, SAFETY_SETTINGS, GENERATION_CONFIG, MODEL_NAM
 
 if __name__ == '__main__':
     # Configure Model
-    genai.configure(api_key='{AIzaSyAh2c2w4svQAX9dOUv4tjaI84lNXZxGsT0}')  # Check https://github.com/google-gemini/cookbook
+    genai.configure(api_key='{Enter Your Gemini API key}')  # Check https://github.com/google-gemini/cookbook
     model = genai.GenerativeModel(
         model_name=MODEL_NAME,
         safety_settings=SAFETY_SETTINGS,
