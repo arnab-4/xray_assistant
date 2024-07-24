@@ -11,7 +11,7 @@ Axe Analytics is a web application that leverages the power of Google's Gemini A
 
 ## Screenshot
 
-![Axe Analytics Screenshot](screenshot.png) 
+![Axe Analytics Screenshot](https://raw.githubusercontent.com/arnab-4/xray_assistant/main/demo.png) 
 
 ## Getting Started
 
