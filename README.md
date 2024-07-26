@@ -15,7 +15,7 @@ Axe Analytics is a web application that leverages the power of Google's Gemini A
 
 ## Getting Started
 
-1. **Clone the repository:** `git clone https://github.com/your-username/axe-analytics.git`
+1. **Clone the repository:** `git clone https://github.com/arnab-4/xray_assistant.git`
 2. **Install dependencies:** `pip install -r requirements.txt`
 3. **Obtain a Gemini API key:** [https://developers.generativeai.google](https://developers.generativeai.google)
 4. **Update `configs.py`:**
